@@ -13,6 +13,5 @@ A stopwatch is the best way to keep track of your time. You'll have the power to
 
 
 
-
-https://user-images.githubusercontent.com/71933266/170868976-bb8bf52d-a2e0-405d-ad4d-c11492adc7af.mp4
+https://user-images.githubusercontent.com/71933266/174468545-65e7be71-51b3-4ce1-8efa-46f8b1b304b2.mp4
 
