@@ -9,7 +9,6 @@ A stopwatch is the best way to keep track of your time. You'll have the power to
 
 ## How it looks 🎥
 
-**Live:** https://candystopwatch.netlify.app/
 
 
 
